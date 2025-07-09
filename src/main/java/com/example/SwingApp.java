@@ -1,4 +1,4 @@
-package com.example.app.swing;
+package com.example;
 
 import ai.onnxruntime.OrtException;
 import com.example.yolo.Detection;
